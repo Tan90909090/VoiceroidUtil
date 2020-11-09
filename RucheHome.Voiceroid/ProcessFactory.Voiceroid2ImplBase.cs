@@ -86,7 +86,7 @@ namespace RucheHome.Voiceroid
             /// <summary>
             /// 音声保存ファイルダイアログ名。
             /// </summary>
-            private const string SaveFileDialogName = @"名前を付けて保存";
+            private const string SaveFileDialogName = @"Save As";
 
             /// <summary>
             /// 音声保存進捗ウィンドウ名。
